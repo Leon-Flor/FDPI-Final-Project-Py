@@ -23,6 +23,7 @@ El proyecto sigue la siguiente estructura de directorios:
 - `app.py`: Archivo principal con la lógica de la aplicación.
 - `data/movies.json`: Archivo JSON que contiene los datos de las películas.
 - `requirements.txt`: Archivo de requerimientos.
+- `functions/...`: Carpeta contenedora de funciones (Para separar la lógica de la UI).
 
 ## Instrucciones de Uso 📝
 
