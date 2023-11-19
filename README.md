@@ -17,9 +17,7 @@ El proyecto sigue la siguiente estructura de directorios:
 
 - `README.md`: Archivo que contiene información sobre el proyecto.
 - `app.py`: Archivo principal con la lógica de la aplicación.
-- `data/peliculas.json`: Archivo JSON que contiene los datos de las películas.
-- `templates/`: Directorio para plantillas HTML.
-- `static/`: Directorio para archivos estáticos como CSS o imágenes.
+- `data/movies.json`: Archivo JSON que contiene los datos de las películas.
 - `requirements.txt`: Archivo de requerimientos.
 
 ## Instrucciones de Uso 📝
