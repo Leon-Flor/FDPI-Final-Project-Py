@@ -8,11 +8,9 @@ Este proyecto fue desarrollado por estudiantes de la Universidad del Valle con e
 ## Participantes 👥
 - **Felipe Garcia Londoño**
   - Correo: felipe.garcia@correounivalle.edu.co
-  - ![Felipe](https://i.pinimg.com/originals/49/3f/a0/493fa0f13970ab3ef29375669f670451.jpg)
 
 - **León Alejandro Flor**
   - Correo: leon.flor@correounivalle.edu.co
-  - ![León](https://w7.pngwing.com/pngs/7/618/png-transparent-man-illustration-avatar-icon-fashion-men-avatar-face-fashion-girl-heroes-thumbnail.png)
 
 ## Estructura del Proyecto 📂
 El proyecto sigue la siguiente estructura de directorios:
