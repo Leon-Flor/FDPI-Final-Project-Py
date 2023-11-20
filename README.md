@@ -7,7 +7,7 @@ Este proyecto fue desarrollado por estudiantes de la Universidad del Valle con e
 
 ## Participantes 👥
 - **Felipe Garcia Londoño**
-  - Correo: felipe.garcia@correounivalle.edu.co
+  - Correo: luis.garcia.londono@correounivalle.edu.co
 
 - **León Alejandro Flor**
   - Correo: leon.flor@correounivalle.edu.co
