@@ -9,6 +9,9 @@ Este proyecto fue desarrollado por estudiantes de la Universidad del Valle con e
 - **Felipe Garcia Londoño**
   - Correo: luis.garcia.londono@correounivalle.edu.co
 
+- **Manuel Galvis**
+  - Correo: galvis.jose@correounivalle.edu.co
+    
 - **León Alejandro Flor**
   - Correo: leon.flor@correounivalle.edu.co
 
